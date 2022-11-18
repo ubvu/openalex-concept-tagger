@@ -1,0 +1,7 @@
+__pycache__/
+tagger/__pycache__/
+venv/
+input/
+output/
+data/
+models/
